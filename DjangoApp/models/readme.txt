@@ -1,1 +1,1 @@
-Eğitilen model buraya atılacak
+Eğitilen model buraya atılacak.
